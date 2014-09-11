@@ -64,11 +64,13 @@
                 <li><a href="history.php">GAPS IN RESEARCH</a></li>
                 <li><a href="austin.php">TROUBLED BEGINNINGS</a></li>
                 <li><a href="document-list.php">DOCUMENTS</a></li>
+<!--
 				<li class="has-dropdown"><a href="#">FOLLOW UP</a>
 						<ul class="dropdown">
                             <li><a href="#">Headline</a></li>
 						</ul>
 				</li>
+-->
 				<li class="has-dropdown"><a href="#">CREDITS</a>
 						<ul class="dropdown">
                             <li><a href="mailto:jschwartz@statesman.com">Author: Jeremy Schwartz</a></li>
@@ -252,13 +254,10 @@ the rest of the HTML is processed and the page load is complete, remove the line
 			<h5 class="show-for-medium-up">Click/drag to advance</h5><h5 class="show-for-small-only">Swipe to advance</h5>
 			<div class="sliderContent">
 			  <div>
-			  	<img src="images/gallery01.jpg">
+			  	<img src="images/gallery03.jpg">
 			  </div>
 			  <div>
 			  	<img src="images/gallery02.jpg">
-			  </div>
-			  <div>
-			  	<img src="images/gallery03.jpg">
 			  </div>
 			  <div>
 			  	<img src="images/gallery04.jpg">
