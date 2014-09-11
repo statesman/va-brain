@@ -25,6 +25,8 @@
 
 <!-- project-specific styles -->
 	<link rel="stylesheet" href="assets/project.css">
+	<link rel="stylesheet" type="text/css" href="../../foundation/slick/slick/slick.css"/>
+
 	<link href='http://fonts.googleapis.com/css?family=Tinos:400,700|Playfair+Display+SC:400,700|Nobile' rel='stylesheet' type='text/css'>
 
 <!-- page additions -->
@@ -62,6 +64,11 @@
                 <li><a href="history.php">GAPS IN RESEARCH</a></li>
                 <li><a href="austin.php">TROUBLED BEGINNINGS</a></li>
                 <li><a href="document-list.php">DOCUMENTS</a></li>
+				<li class="has-dropdown"><a href="#">FOLLOW UP</a>
+						<ul class="dropdown">
+                            <li><a href="#">Headline</a></li>
+						</ul>
+				</li>
 				<li class="has-dropdown"><a href="#">CREDITS</a>
 						<ul class="dropdown">
                             <li><a href="mailto:jschwartz@statesman.com">Author: Jeremy Schwartz</a></li>
@@ -239,6 +246,43 @@ the rest of the HTML is processed and the page load is complete, remove the line
 	<h3>New understanding of brain function</h3>
 	<p><span class="dropcap">W</span>hile the VA is best known for providing health care and disability benefits to veterans, it also operates one of the nation’s largest research operations. With unique access to millions of veterans and their medical records, the VA in 2014 spent $586 million on research and prosthetics and oversaw nearly $2 billion in total research funding.</p>
 	<p>In 2015, the VA plans to spend about $35 million — or less than 6 percent of its research budget — on TBI and neurotrauma study nationwide. The most advanced research occurs at specialized mental illness centers such as the Waco Center of Excellence, which opened at a time when increasingly powerful scanning instruments were revolutionizing how the medical profession viewed the brain.</p>
+
+	<div class="inline-asset wide gallery">
+		<div class="asset">
+			<h5 class="show-for-medium-up">Click/drag to advance</h5><h5 class="show-for-small-only">Swipe to advance</h5>
+			<div class="sliderContent">
+			  <div>
+			  	<img src="images/gallery01.jpg">
+			  </div>
+			  <div>
+			  	<img src="images/gallery02.jpg">
+			  </div>
+			  <div>
+			  	<img src="images/gallery03.jpg">
+			  </div>
+			  <div>
+			  	<img src="images/gallery04.jpg">
+			  </div>
+			  <div>
+			  	<img src="images/gallery05.jpg">
+			  </div>
+			  <div>
+			  	<img src="images/gallery06.jpg">
+			  </div>
+			  <div>
+			  	<img src="images/gallery07.jpg">
+			  </div>
+			  <div>
+			  	<img src="images/gallery08.jpg">
+			  </div>
+			  <div>
+			  	<img src="images/gallery09.jpg">
+			  </div>
+			</div>
+			<p class="caption">Nickolos Chevalier, MRI research specialist for the Center of Excellence, offers a look inside the mobile MRI trailer at the Olin E. Teague Veterans' Center in Temple on August 4, 2014. JAY JANNER / AMERICAN-STATESMAN</p>
+		</div>
+	</div>
+
 	<p>“For much of the last three to four decades, (research) was predicated on the idea that brains can’t heal,” said Jim Misko, a former board member of the Brain Injury Association of America. “But in the last 10 years, that’s been completely replaced by the data driven, informed view that a lot of damage from concussion or TBI isn’t black and white. It’s not a question of healthy vs. dead tissue. Most of the damage is in between, in tissue that can be repaired. Now the lid is off with people (wanting) to do research.”</p>
 	<p>He added, “If you have access to the best imaging, you’re getting to see damage where we could never see it before.”</p>
 	<p>But few brain injury studies in recent years have scanned soldiers before and after deployments. Such a comparison would allow researchers to observe changes in individual soldiers’ brains as the result of exposure to war.</p>
@@ -462,6 +506,7 @@ the rest of the HTML is processed and the page load is complete, remove the line
 
 
 <!-- project scripts -->
+	<script src="assets/slick.js"></script>
 
 <!-- DocumentCloud slider
  add one for each.
