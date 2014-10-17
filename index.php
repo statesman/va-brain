@@ -64,11 +64,7 @@
                 <li><a href="history.php">GAPS IN RESEARCH</a></li>
                 <li><a href="austin.php">TROUBLED BEGINNINGS</a></li>
                 <li><a href="document-list.php">DOCUMENTS</a></li>
-				<li class="has-dropdown"><a href="#">FOLLOW UP</a>
-						<ul class="dropdown">
-                            <li><a href="http://www.mystatesman.com/news/news/local-military/lawmakers-blast-va-on-waco-brain-imaging-program/nhLQF/" target="_blank">Lawmakers blast VA on Waco brain imaging program</a></li>
-						</ul>
-				</li>
+				<li><a href="http://www.statesman.com/flist/news/military/va-center-excellence/fPr/" target="_blank">FOLLOW UP</a></li>
 				<li class="has-dropdown"><a href="#">CREDITS</a>
 						<ul class="dropdown">
                             <li><a href="mailto:jschwartz@statesman.com">Author: Jeremy Schwartz</a></li>

@@ -57,7 +57,8 @@
                 <li><a href="history.php">GAPS IN RESEARCH</a></li>
                 <li><a href="austin.php">TROUBLED BEGINNINGS</a></li>
                 <li class="active"><a href="document-list.php">DOCUMENTS</a></li>
-				<li class="has-dropdown"><a href="#">CREDITS</a>
+				<li><a href="http://www.statesman.com/flist/news/military/va-center-excellence/fPr/" target="_blank">FOLLOW UP</a></li>
+			<li class="has-dropdown"><a href="#">CREDITS</a>
 						<ul class="dropdown">
                             <li><a href="mailto:jschwartz@statesman.com">Author: Jeremy Schwartz</a></li>
                             <li><a href="mailto:jjanner@statesman.com">Photo/Video: Jay Janner</a></li>
