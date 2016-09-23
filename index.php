@@ -162,40 +162,15 @@
 
 <div class="flex-video widescreen">
 
-<!-- Start of Brightcove Player -->
-
-<div style="display:none">
-JANUS-1086 chromeless player template 
-</div>
-
-<!--
-By use of this code snippet, I agree to the Brightcove Publisher T and C 
-found at https://accounts.brightcove.com/en/terms-and-conditions/. 
--->
-
-<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
-
-<object id="myExperience3769176888001" class="BrightcoveExperience">
-  <param name="bgcolor" value="#FFFFFF" />
-  <param name="width" value="750" />
-  <param name="height" value="422" />
-  <param name="playerID" value="2305729465001" />
-  <param name="playerKey" value="AQ~~,AAAAAFSNjfU~,4oPitrNpKqxve-TuA7jvGHefnd3bNl1A" />
-  <param name="isVid" value="true" />
-  <param name="isUI" value="true" />
-  <param name="dynamicStreaming" value="true" />
-  
-  <param name="@videoPlayer" value="3769176888001" />
-</object>
-
-<!-- 
-This script tag will cause the Brightcove Players defined above it to be created as soon
-as the line is read by the browser. If you wish to have the player instantiated only after
-the rest of the HTML is processed and the page load is complete, remove the line.
--->
-<script type="text/javascript">brightcove.createExperiences();</script>
-
-<!-- End of Brightcove Player -->
+<div style="display: block; position: relative; max-width: 100%;"><div style="padding-top: 56.25%;"><video data-video-id="3769176888001" 
+data-account="1418563061" 
+data-player="S15Aq3t8" 
+data-embed="default" 
+data-application-id 
+class="video-js" 
+controls 
+style="width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;"></video>
+<script src="//players.brightcove.net/1418563061/S15Aq3t8_default/index.min.js"></script></div></div>
 
 </div>
 
@@ -424,36 +399,15 @@ the rest of the HTML is processed and the page load is complete, remove the line
 
 <!-- Start of Brightcove Player -->
 
-<div style="display:none">
-JANUS-1086 chromeless player template 
-</div>
-
-<!--
-By use of this code snippet, I agree to the Brightcove Publisher T and C 
-found at https://accounts.brightcove.com/en/terms-and-conditions/. 
--->
-
-<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
-
-<object id="myExperience3748332941001" class="BrightcoveExperience">
-  <param name="bgcolor" value="#FFFFFF" />
-  <param name="width" value="750" />
-  <param name="height" value="422" />
-  <param name="playerID" value="2305729465001" />
-  <param name="playerKey" value="AQ~~,AAAAAFSNjfU~,4oPitrNpKqxve-TuA7jvGHefnd3bNl1A" />
-  <param name="isVid" value="true" />
-  <param name="isUI" value="true" />
-  <param name="dynamicStreaming" value="true" />
-  
-  <param name="@videoPlayer" value="3748332941001" />
-</object>
-
-<!-- 
-This script tag will cause the Brightcove Players defined above it to be created as soon
-as the line is read by the browser. If you wish to have the player instantiated only after
-the rest of the HTML is processed and the page load is complete, remove the line.
--->
-<script type="text/javascript">brightcove.createExperiences();</script>
+<div style="display: block; position: relative; max-width: 100%;"><div style="padding-top: 56.25%;"><video data-video-id="3748332941001" 
+data-account="1418563061" 
+data-player="S15Aq3t8" 
+data-embed="default" 
+data-application-id 
+class="video-js" 
+controls 
+style="width: 100%; height: 100%; position: absolute; top: 0px; bottom: 0px; right: 0px; left: 0px;"></video>
+<script src="//players.brightcove.net/1418563061/S15Aq3t8_default/index.min.js"></script></div></div>
 
 <!-- End of Brightcove Player -->
 
